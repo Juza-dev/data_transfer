@@ -1,0 +1,7 @@
+f_customer:
+  mc:
+    url: 'XXXXXXX.com'
+    username: 'XXXXXXXXX'
+    password: 'XXXXXXXXX'
+    port: '22'
+    path: '/XXXXXX/XX'
