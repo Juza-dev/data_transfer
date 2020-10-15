@@ -2,7 +2,7 @@
 lock "~> 3.14.1"
 
 set :application, "data_transfer"
-set :repo_url, "git@github.com:Ryoland-dev/data_transfer.git"
+set :repo_url, "git@github.com:Juza-dev/data_transfer.git"
 
 set :branch, ENV["BRANCH"] || :master
 
